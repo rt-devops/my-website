@@ -1,2 +1,2 @@
-# my-website
-Personal static website built with HTML
+# Kutti Tic Tac Toe Game
+A multiplayer web game hosted by rt-devops.
